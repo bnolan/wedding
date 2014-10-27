@@ -1,0 +1,102 @@
+---
+---
+
+body{
+  line-height: 1.5em; 
+  margin-bottom: 100px;
+  font-family: georgia, serif;
+  font-size: 0.9em;
+  color: #333;
+}
+
+$orange: #f70;
+$green: #3e5;
+$red: #f03;
+
+ 
+h1,h2,h3,h4,h5{
+  font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", sans-serif;
+  margin-top: 30px;
+  text-transform: uppercase;
+}
+
+h1{
+  font-size: 1.5em;
+}
+
+h2{
+  font-size: 1.2em;
+}
+
+h3{
+  font-size: 1em;
+}
+
+body{
+  background: linear-gradient(#428bcf 0, #b9d3e4 400px);
+  background-color: #b9d3e4;
+  background-repeat: repeat-x;
+}
+
+
+*{
+  box-sizing:border-box;
+}
+
+#wrapper{
+  background: white;
+  padding: 20px;
+  border-radius: 2px;
+  max-width: 500px;
+  margin: 40px auto 40px auto;
+  box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
+}
+
+header{
+  text-align: center;
+  margin: 0;
+  padding-bottom: 0px;
+
+  h1{
+    margin: 30px 0 10px 0;
+  }
+
+  h3{
+    font-size: 0.85em;
+    margin: 0 0 20px 0;
+    color: #777;
+  }
+}
+
+#navigation{
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid #aaa;
+
+  *{
+    margin: 0;
+    padding: 0;
+  }
+
+  li{
+    display: block;
+    list-style: none;
+    width: 33.3%;
+    float: left;
+  }
+  a{
+    font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", sans-serif;
+    text-transform: uppercase;
+    border-bottom: 1px solid #aaa;
+    text-decoration: none;
+    color: #555;
+    display: block;
+    text-align: center;
+  }
+
+  a:hover{
+    background: #555;
+    color: white;
+  }
+
+}
