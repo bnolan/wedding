@@ -23,5 +23,3 @@ Home beach where were staying is a several kilometer long ocean beach which is s
 
 There's a nice pub within walking distance of the accommodation, it also has a bottle shop if you want to have a few quiet beers on the beach.
 
-
-
