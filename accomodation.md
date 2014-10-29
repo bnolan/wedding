@@ -1,9 +1,9 @@
 ---
-title: Accomodation
+title: Accommodation
 layout: default
 ---
 
-# Accomodation
+# Accommodation
 
 We recommend staying at either the Anchorage or the Allure. Both places are ~5-10min walk away from the ceremony & reception, as well as each other.
 
@@ -15,7 +15,7 @@ Some of you might like to get together with a few of the other guests and share 
 
 ## The Allure
 
-[The Allure](http://www.allurestradbroke.com.au/ ) doesn't have direct beach access, but is only across the road! It also has a pool, and a cafe on site. 
+[The Allure](http://www.stradbrokeresorts.com/) doesn't have direct beach access, but it is only 50m across the road! It is in a nice bush setting and also has an on-site pool and cafe on. 
 
 These are the rates that have been provided to us (these include a 10% wedding discount):
 
@@ -49,3 +49,6 @@ Four Bedroom Villa              $265.00 – sleeps 8 Disc $238.50 p/n
 ## Other options
 
 Other options include the [Manta Lodge and Dive Centre](http://www.mantalodge.com.au/), which is the backpackers and also short (10min) walk away, or if you're planning to stay for more than a few days, it might be worth renting a holiday house (or bach, as they're called in New Zealand).
+
+## Final note - air conditioning
+It has come to our attention that many accommodation options on the island do not have air conditioning. While it will be hot, especially by NZ standards, the island does get lovely bay breezes making it a few degrees cooler than the mainland, and most (if not all) places will have ceiling fans. If you think you might need air con though, we suggest checking with the accommodation when you make your booking :)
