@@ -59,13 +59,15 @@ In fact - please [email] (benandrissa@gmail.com) us when you have booked your tr
 
 ## Catching a ferry
 
-To get to the island, you'll need to take a boat. We like to take the Gold Cat ferry from Cleveland. There's a ferry leaving [fairly regularly](http://www.flyer.com.au/timetable-a-prices.html).
+To get to the island, you'll need to take a boat. We like to take the [Gold Cat] (http://www.flyer.com.au/timetable-a-prices.html) ferry from Cleveland. You can also take the [Water Taxi] (http://www.stradbrokeferries.com.au/timetables/water-taxi-timetable-north-stradbroke-island). Although they land at different places, you will still end up at Dunwich.
 
 [How not to get to Straddie](http://www.sunshinecoastdaily.com.au/news/how-not-get-straddie/1307903/).
 
 ## On the Island
 
-Once you arrive at Dunwich, take the bus that leaves right outside the ferry terminal. It takes about 20min get to Point Lookout and costs $5 (this is one way, and you will need cash). Ask the cruisey bus driver to be drop you off wherever you have booked to stay - the backpackers is the first stop, followed by the Anchorage, and the next is the Allure resort. Once you are at Pt Lookout, you can pretty much walk everywhere (or take the bus, which is $2 within Pt Lookout).
+Once you arrive at Dunwich, take the bus that leaves right outside the ferry terminal. They meet both ferries [most of the time] (http://www.northstradbrokeislandbuses.com/timetables.html) and it takes about 20min get to Pt Lookout and costs $5 (this is one way, and you will need cash). Ask the cruisey bus driver to be drop you off wherever you have booked to stay - the backpackers is the first stop, followed by the Anchorage, and the next is the Allure resort. Once you are at Pt Lookout, you can pretty much walk everywhere (or take the bus, which is $2 within Pt Lookout).
+
+We will have a couple of cars on the island, so if for some reason you're arriving after dark (outside of bus hours), we will come pick you up from Dunwich - we'll just need to know in advance.
 
 There are a few cafes, pubs &amp; a small 4Square Supermarket so you shouldn't starve while you are on the island. Plus we plan to feed you at least one night you are there.
 
@@ -77,6 +79,6 @@ But we know all good things must come to an end!
 
 Getting off the island is pretty easy - it's just the same as getting there, but in reverse. 
 
-Take the bus from Pt Lookout to Dunwich ($5), then get the water taxi back to Mainland. Then make your way from Cleveland to the airport - again, if there are a few of you, we will book a shuttle. Or else you can take a taxi (~$75, ~40min). The train is 90-100min but it maybe cheaper to take a taxi if there is more than one of you!
+Take the bus from Pt Lookout to Dunwich ($5), then get the water taxi back to Mainland. Then make your way from Cleveland to the airport - again, if there are a few of you, we will book a shuttle or plan to share a taxi. Or get the train!
 
 We recommend booking your flight for later in the afternoon to leave plenty of time to get off the island and to the airport (especially for international flights). If you need to fly in the morning, you will most likely need to overnight in Brisbane in order to get to the airport in time.
