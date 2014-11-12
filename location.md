@@ -4,9 +4,9 @@ Point Lookout is a small coastal holiday town located on [North Stradbroke Islan
 
 ## Why Straddie?
 
-Rissa first took Ben to Straddie with her family about year after they got together. It was a short visit, but they went 4WDing on Main Beach, dug eugari (pipi) out the sand, pulled worms for bait but didn't catch any legal size fish. They saw humpback whales & Ben got a little insight into the life Rissa lived while growing up on the neighbouring [Moreton Island] (http://en.wikipedia.org/wiki/Moreton_Island).
+Rissa first took Ben to Straddie with her family about year after they got together. It was a short visit, but they went 4WDing on Main Beach, dug [eugarie] (http://www.qm.qld.gov.au/Find+out+about/Animals+of+Queensland/Molluscs/Bivalves/Eugarie#.VGMp90s_cy4) out the sand, pulled [worms] (http://www.dpi.nsw.gov.au/__data/assets/pdf_file/0007/375856/Beachworms.pdf) for bait but didn't catch any legal size fish. They saw humpback whales & Ben got a little insight into the life Rissa lived while growing up on the neighbouring [Moreton Island] (http://en.wikipedia.org/wiki/Moreton_Island).
 
-Since then, Ben & Rissa have escaped to Straddie a few more times, and when they got engaged, they already had a short trip planned. Ben suggested they investigate having the wedding on the island, and Rissa agreed - more practical than Moreton Island, not far for Rissa's dad to travel to, and beautiful, relaxing place that they wanted to share with everyone.
+Since then, Ben & Rissa have escaped to Straddie a few more times, and when they got engaged, they already had a short trip planned. Ben suggested they investigate having the wedding on the island, and Rissa agreed - more practical than Moreton Island, not far for Rissa's dad to travel to, and still beautiful, unique and relaxing place - somewhere special they wanted to share, somewhere memorable.
 
 ## What to expect
 
