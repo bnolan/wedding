@@ -11,7 +11,7 @@ Some of you might like to get together with a few of our other guests and share 
 
 ## The Allure
 
-[The Allure](http://www.allurestradbroke.com.au/ ) doesn't have direct beach access, but it is only across the road! It is the closest accommodation the ceremony site & reception venue. The architecturally designed "beach shacks" & villas are well equipped, fully self-contained and have air conditioning. It also has on-site a pool, children's playground, shared edible garden and cafe. We stayed here in November and will probably book this for ourselves. (Tip: shacks/villas on the back row are the most private & peaceful).
+[The Allure](http://www.allurestradbroke.com.au/ ) doesn't have direct beach access, but it is only across the road! It is the closest accommodation to the ceremony site & reception venue. The architecturally designed "beach shacks" & villas are well equipped, fully self-contained and have air conditioning. It also has on-site a pool, children's playground, shared edible garden and cafe. We stayed here in November and will probably book this for ourselves. (Tip: shacks/villas on the back row are the most private & peaceful).
 
 We have registered our wedding with the Allure, so if quote our names & the wedding date you will recieve a 10% discount from their advertised rate.
 
@@ -57,9 +57,9 @@ We have not investigated this place in person, but the [Islander Holiday Resort]
 If you're planning to stay for more than a few days, it might also be worth renting a holiday house (or bach, as they're called in New Zealand). This is how most visitors to the island would spend their summer holidays :)
 
 Places to book holidays houses include: 
-[Dolphin Property Management] (http://www.straddie.info)
-[Stayz North Stradbroke Is] (http://www.stayz.com.au/accommodation/qld/queensland-islands/north-stradbroke-island)
-[Stradbroke Holidays - Pt Lookout] (http://www.stradbrokeholidays.com.au/accommodation/?c=point-lookout)
+[Dolphin Property Management] (http://www.straddie.info), 
+[Stayz North Stradbroke Is] (http://www.stayz.com.au/accommodation/qld/queensland-islands/north-stradbroke-island), 
+[Stradbroke Holidays - Pt Lookout] (http://www.stradbrokeholidays.com.au/accommodation/?c=point-lookout), 
 [Ray White Stradbroke] (http://www.visitstradbroke.com.au)
 
 ... just make sure the place you book is close to Home Beach, Point Lookout (and definitely not in Amity Pt or Dunwich -  or else it's a long walk home and there are no taxis ;) )
