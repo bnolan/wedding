@@ -3,7 +3,7 @@ title: Getting there
 layout: default
 ---
 
-# Getting there
+# Getting to Point Lookout, North Stradbroke Island
 
 Even though we're getting married on a far away island in a (sub)tropical sea, getting there shouldn't be too hard.
 
@@ -55,7 +55,7 @@ It's about a 40min drive (traffic dependent) from Brisbane airport to Cleveland,
 
 If a bunch of you are arriving at around the same time, we will either organise a shuttle to take you from the airport to the ferry, or put you in touch with one another so you can share a taxi.
 
-In fact - please [email] (benandrissa@gmail.com) us when you have booked your travel - and we will do our best to keep track of everyone's travel & put you in touch with others traveling at the same time :)
+In fact - please [email] (benandrissa@gmail.com) us when you have booked your travel - we will do our best to keep track of when people are arriving & departing, and put you in touch with others traveling at the same time :)
 
 ## Catching a ferry
 
