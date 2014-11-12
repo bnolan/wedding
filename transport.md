@@ -1,9 +1,9 @@
 ---
-title: Transport
+title: Getting there
 layout: default
 ---
 
-# Transport
+# Getting there
 
 Even though we're getting married on a far away island in a (sub)tropical sea, getting there shouldn't be too hard.
 
@@ -12,8 +12,6 @@ Even though we're getting married on a far away island in a (sub)tropical sea, g
 If you're coming from NZ, we recommend flying to Brisbane on Thursday or Friday morning. It's a 3.5 hour flight from Wellington, a bit less from other places, a long way from Europe.
 
 As our ceremony is later in the afternoon, you could also fly Saturday (the day of th wedding), and arrive early enough not to miss too much. You just might be a bit tired!
-
-It's about a 40min drive from Brisbane airport to Cleveland, where the ferry leaves from. You can even take the train, if you're feeling adventurous and have lots of time (90-100min). But if a bunch of you are arriving at around the same time, we will organise a shuttle to take you from the airport to the ferry.
 
 ## Suggested flights from NZ
 
@@ -42,9 +40,18 @@ Wellington  > Brisbane
  NZ135/VA7435 Dep 9:30am, Arr 10:05am</div><div>
 </div><div>Christchurch  > Brisbane 
  VA125/NZ7927  Dep 6:20am, Arr 7:10am</div><div>
+ 
+ ## Getting to Cleveland
+
 We have suggested these flights allowing plenty of travel time to get to Pt Lookout during daylight hours, in time to go for a walk and get your bearings, have a swim or just relax in your room. 
 
- Just keep in mind that the latest ferry from Cleveland to the island is 7.25pm - so you need to leave enough time to clear the border and make your way to Cleveland to catch the ferry. If lots of you are arriving in the afternoon we recommend sharing taxis or we will book you a shuttle to make sure you're not stranded!
+It's about a 40min drive (traffic dependent) from Brisbane airport to Cleveland, where the ferries for Straddie leave from. You can even take the train, if you're feeling adventurous and have lots of time (90-100min). 
+
+Just keep in mind that the latest ferry from Cleveland (mainland) to the island is 7.25pm - so if you're arriving in the afternoon, you need to make sure there's enough time to clear the border and make your way to Cleveland to catch the ferry.
+
+If a bunch of you are arriving at around the same time, we will either organise a shuttle to take you from the airport to the ferry, or put you in touch with one another so you can share a taxi (and it's faster and probably cheaper than catching the train).
+
+In fact - please [email] (benandrissa@gmail.com) us when you have booked your travel - and we will do our best to keep track of everyone's travel & put you in touch with others traveling at the same time :)
  
 </div><div>
 </div><div>
@@ -52,7 +59,7 @@ We have suggested these flights allowing plenty of travel time to get to Pt Look
  
 </div></div>
 
-## Ferry to North Stradbroke Island
+## Catching a ferry
 
 [How not to get to Straddie](http://www.sunshinecoastdaily.com.au/news/how-not-get-straddie/1307903/).
 
