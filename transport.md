@@ -41,33 +41,27 @@ Wellington  > Brisbane
 </div><div>Christchurch  > Brisbane 
  VA125/NZ7927  Dep 6:20am, Arr 7:10am</div><div>
  
- ## Getting to Cleveland
-
-We have suggested these flights allowing plenty of travel time to get to Pt Lookout during daylight hours, in time to go for a walk and get your bearings, have a swim or just relax in your room. 
-
-It's about a 40min drive (traffic dependent) from Brisbane airport to Cleveland, where the ferries for Straddie leave from. You can even take the train, if you're feeling adventurous and have lots of time (90-100min). 
-
-Just keep in mind that the latest ferry from Cleveland (mainland) to the island is 7.25pm - so if you're arriving in the afternoon, you need to make sure there's enough time to clear the border and make your way to Cleveland to catch the ferry.
-
-If a bunch of you are arriving at around the same time, we will either organise a shuttle to take you from the airport to the ferry, or put you in touch with one another so you can share a taxi (and it's faster and probably cheaper than catching the train).
-
-In fact - please [email] (benandrissa@gmail.com) us when you have booked your travel - and we will do our best to keep track of everyone's travel & put you in touch with others traveling at the same time :)
- 
 </div><div>
 </div><div>
 </div><div>
  
 </div></div>
 
-## Catching a ferry
+## Getting to Cleveland
 
-[How not to get to Straddie](http://www.sunshinecoastdaily.com.au/news/how-not-get-straddie/1307903/).
+We have suggested these flights allowing plenty of travel time to get to Pt Lookout during daylight hours, in time to go for a walk and get your bearings, have a swim or just relax in your room. Just keep in mind that the latest ferry from Cleveland (mainland) to the island is 7.25pm - so if you're arriving in the afternoon, you need to make sure there's enough time to clear the border and make your way to Cleveland to catch the ferry.
+
+It's about a 40min drive (traffic dependent) from Brisbane airport to Cleveland, where the ferries for Straddie leave from. You can even take the train, if you're feeling adventurous and have lots of time (90-100min) - take the train to the city, change onto the Cleveland line (at Central or Roma St), then take the train right to the end - Cleveland. During daylight hours, there's a free shuttle bus from the Cleveland train station to the ferry terminal. This trip can take 90-100min. But if there is more than one of you arriving, it maybe cheaper and quicker to share a taxi (~$75).
+
+If a bunch of you are arriving at around the same time, we will either organise a shuttle to take you from the airport to the ferry, or put you in touch with one another so you can share a taxi.
+
+In fact - please [email] (benandrissa@gmail.com) us when you have booked your travel - and we will do our best to keep track of everyone's travel & put you in touch with others traveling at the same time :)
+
+## Catching a ferry
 
 To get to the island, you'll need to take a boat. We like to take the Gold Cat ferry from Cleveland. There's a ferry leaving [fairly regularly](http://www.flyer.com.au/timetable-a-prices.html).
 
-To get to Cleveland from the airport, you can take the train from the city, and change onto the Cleveland line, then there's a shuttle bus from the Redland train station to the ferry terminal. This trip can take 90-100min. But if there is more than one of you arriving, it maybe cheaper and quicker to share a taxi (~$75 and 40min).
-
-Easier, is just to organise to arrive at around the same time as some of our other guests, and we'll get you a shuttle that picks you up outside the airport and takes you straight to the ferry. 
+[How not to get to Straddie](http://www.sunshinecoastdaily.com.au/news/how-not-get-straddie/1307903/).
 
 ## On the Island
 
