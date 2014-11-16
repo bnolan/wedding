@@ -11,13 +11,9 @@ Some of you might like to get together with a few of our other guests and share 
 
 ## The Allure
 
-<<<<<<< HEAD
-[The Allure](http://www.stradbrokeresorts.com/) doesn't have direct beach access, but it is only 50m across the road! It is in a nice bush setting and also has an on-site pool and cafe on. 
-=======
 [The Allure](http://www.allurestradbroke.com.au/ ) doesn't have direct beach access, but it is only across the road! It is the closest accommodation to the ceremony site & reception venue. The architecturally designed "beach shacks" & villas are well equipped, fully self-contained and have air conditioning. It also has on-site a pool, children's playground, shared edible garden and cafe. We stayed here in November and will probably book this for ourselves. (Tip: shacks/villas on the back row are the most private & peaceful).
 
 We have registered our wedding with the Allure, so if quote our names & the wedding date you will recieve a 10% discount from their advertised rate.
->>>>>>> dfba7a38338524e81ad425c8c819aab1cc26d4b2
 
 These are the rates that have been provided to us (these include a 10% wedding discount):
 
@@ -54,15 +50,14 @@ Four Bedroom Villa              $265.00 – sleeps 8 Disc $238.50 p/n
 
 ## Other options
 
-<<<<<<< HEAD
 Other options include the [Manta Lodge and Dive Centre](http://www.mantalodge.com.au/), which is the backpackers and also short (10min) walk away, or if you're planning to stay for more than a few days, it might be worth renting a holiday house (or bach, as they're called in New Zealand).
 
-## Final note - air conditioning
-It has come to our attention that many accommodation options on the island do not have air conditioning. While it will be hot, especially by NZ standards, the island does get lovely bay breezes making it a few degrees cooler than the mainland, and most (if not all) places will have ceiling fans. If you think you might need air con though, we suggest checking with the accommodation when you make your booking :)
-=======
 The [Manta Lodge and Dive Centre](http://www.mantalodge.com.au/) is the only backpackers on the island, and we've stayed here a few times. It is short (10min) walk from the ceremony & reception locations, and we can definitely recommend it if you're on a budget. They are also the local dive operator if you want to see manta rays.
 
 We have not investigated this place in person, but the [Islander Holiday Resort] (http://www.stradbrokeislander.com.au) is right next to the Allure, and seem to have good rates online, although TripAdvisor reviews suggest their accommodation is a little dated! Regardless, it is also very handy to the ceremony & reception locations, the beach, the pub, etc. 
+
+## Final note - air conditioning
+It has come to our attention that many accommodation options on the island do not have air conditioning. While it will be hot, especially by NZ standards, the island does get lovely bay breezes making it a few degrees cooler than the mainland, and most (if not all) places will have ceiling fans. If you think you might need air con though, we suggest checking with the accommodation when you make your booking :)
 
 If you're planning to stay for more than a few days, it might also be worth renting a holiday house (or bach, as they're called in New Zealand). This is how most visitors to the island would spend their summer holidays :)
 
@@ -73,5 +68,3 @@ Places to book holidays houses include:
 [Ray White Stradbroke] (http://www.visitstradbroke.com.au)
 
 ... just make sure the place you book is close to Home Beach, Point Lookout (and definitely not in Amity Pt or Dunwich -  or else it's a long walk home and there are no taxis ;) )
-
->>>>>>> dfba7a38338524e81ad425c8c819aab1cc26d4b2
