@@ -24,9 +24,4 @@ Both locations are a short walk from the recommended accommodation and each othe
 We will have an after-party on the Sunday afternoon, either at the Anchorage or at the park next to Home Beach, anyone who is able stay and join us is welcome. 
 
 There will probably be some shrimps on the barbie, cold beverages and swims on the beach. Duncan should bring his cricket stuff.&nbsp;**Yay!**
-<div>
-</div><div>
-</div><div>
-</div><div>
-</div>
 

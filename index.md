@@ -1,25 +1,26 @@
 ---
-title: Location
+title: Date
 layout: default
 ---
 
-# Location
+# Date
 
-The wedding will be at point lookout community hall on stradbroke island.
+Save the **date**! Our wedding will now be on the 7th of February 2015. Which happens to be Waitangi weekend in New Zealand. So you should be able to take a lo-o-o-ng weekend on our favourite (sub)tropical island without taking too much time off work. :)
 
-## Things to do
+# The BIG Day
 
-There are a few cool things to do on the island, although mostly its just good hanging out on the beach reading and going for swims, since its pretty much a tropical island.
+The ceremony will be around 3:30pm on Saturday the 7th of February. It will be held on Home Beach, Pt Lookout.
 
-## Scuba diving
+The reception will be held at the nearby Pt Lookout Community Hall. It will start from around dusk.
 
-You can go diving with the scuba people who are at the hostel down the road. The diving is pretty good and you can see leopard sharks and manta rays. The diving trips leave twice a day.
+Both locations are a short walk from the recommended accommodation and each other, and directions/maps will be provided closer to the date. :)
 
-## Beach
+**Dress code** is smart casual and footwear is optional during the ceremony (although you might want to wear something for the short walk to the reception). Note we will be on a sandy island, so choose your footwear wisely (stilettos at your own peril!).
+<div>Ultimately, we want you to be comfortable - it will be warm and humid - so leave the jeans, fur coats, sweaty polyesters, suits &amp; ties at home. :)</div><div>
+</div>
 
-Home beach where were staying is a several kilometer long ocean beach which is safe for swimming and is a nice warm temperature for swimming. Since its the east coast you can even watch the sun come up.
+## The day after
 
-## Straddie pub
+We will have an after-party on the Sunday afternoon, either at the Anchorage or at the park next to Home Beach, anyone who is able stay and join us is welcome. 
 
-There's a nice pub within walking distance of the accommodation, it also has a bottle shop if you want to have a few quiet beers on the beach.
-
+There will probably be some shrimps on the barbie, cold beverages and swims on the beach. Duncan should bring his cricket stuff. **Yay!**
