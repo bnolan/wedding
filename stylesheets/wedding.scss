@@ -52,6 +52,11 @@ section{
   box-sizing:border-box;
 }
 
+img{
+  max-width: 100%;
+  display: block;
+}
+
 #wrapper{
   background: white;
   padding: 20px;

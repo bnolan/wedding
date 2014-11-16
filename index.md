@@ -7,6 +7,8 @@ layout: default
 
 Save the **date**! Our wedding will now be on the 7th of February 2015. Which happens to be Waitangi weekend in New Zealand. So you should be able to take a lo-o-o-ng weekend on our favourite (sub)tropical island without taking too much time off work. :)
 
+<img src="/images/tree.jpg" />
+
 # The BIG Day
 
 The ceremony will be around 3:30pm on Saturday the 7th of February. It will be held on Home Beach, Pt Lookout.

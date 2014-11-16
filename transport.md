@@ -7,6 +7,8 @@ layout: default
 
 Even though we're getting married on a far away island (North Stradbroke Island) in a (sub)tropical sea, getting there shouldn't be too hard.
 
+<img src="/images/forest.jpg" />
+
 ## Fly to Brisbane
 
 If you're coming from NZ, we recommend flying to Brisbane on Thursday or Friday morning. It's a 3.5 hour flight from Wellington, a bit less from other places, a long way from Europe.

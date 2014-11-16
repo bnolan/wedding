@@ -7,6 +7,8 @@ layout: default
 
 Point Lookout is a small coastal holiday town located on [North Stradbroke Island](http://en.wikipedia.org/wiki/North_Stradbroke_Island), affectionately known as "Straddie". The permanent population on the island is probably less than 2000, but swells significantly during the holidays, and is a popular destination for Brisbane residents over summer.
 
+<img src="/images/waves.jpg" />
+
 ## Why Straddie?
 
 Rissa first took Ben to Straddie with her family about year after they got together. It was a short visit, but they went 4WDing on Main Beach, dug [eugarie](http://www.qm.qld.gov.au/Find+out+about/Animals+of+Queensland/Molluscs/Bivalves/Eugarie#.VGMp90s_cy4) out the sand, pulled [worms](http://www.dpi.nsw.gov.au/__data/assets/pdf_file/0007/375856/Beachworms.pdf) for bait but didn't catch any legal size fish. They saw humpback whales & Ben got a little insight into the life Rissa lived while growing up on the neighbouring [Moreton Island](http://en.wikipedia.org/wiki/Moreton_Island).

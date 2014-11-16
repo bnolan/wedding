@@ -7,6 +7,8 @@ layout: default
 
 It was a super romantic trip to Adelaide, staying above a craft beer pub in some super nice rooms, and Ben had the ring hidden in his backpack.
 
+<img src="/images/engagement.jpg" />
+
 # Friday the 13th
 
 Ben really wanted to go to the beach and propose on Friday the 13th, but at the last moment, he got nervous and decided not to tempt fate and bad luck. Rissa couldn't understand why Ben kept asking to go to the beach for a swim on such a gloomy and cold day.... but then again, he had gone swimming before in colder weather, so it wasn't that unusual!

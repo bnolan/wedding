@@ -9,6 +9,8 @@ Although Straddie isn't far from Brisbane, you will need to stay at least one ni
 
 Some of you might like to get together with a few of our other guests and share accommodation for the weekend. Here are our recommendations - some places we have stayed at, others we have just looked up on the internet based on how convenient they are. If you're not sure about anything, or would like help booking accommodation or getting in touch with other guests, just let us know. :)
 
+<img src="/images/path.jpg" />
+
 ## The Allure
 
 [The Allure](http://www.allurestradbroke.com.au/ ) doesn't have direct beach access, but it is only across the road! It is the closest accommodation to the ceremony site & reception venue. The architecturally designed "beach shacks" & villas are well equipped, fully self-contained and have air conditioning. It also has on-site a pool, children's playground, shared edible garden and cafe. We stayed here in November and will probably book this for ourselves. (Tip: shacks/villas on the back row are the most private & peaceful).
