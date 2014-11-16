@@ -54,17 +54,14 @@ Other options include the [Manta Lodge and Dive Centre](http://www.mantalodge.co
 
 The [Manta Lodge and Dive Centre](http://www.mantalodge.com.au/) is the only backpackers on the island, and we've stayed here a few times. It is short (10min) walk from the ceremony & reception locations, and we can definitely recommend it if you're on a budget. They are also the local dive operator if you want to see manta rays.
 
-We have not investigated this place in person, but the [Islander Holiday Resort] (http://www.stradbrokeislander.com.au) is right next to the Allure, and seem to have good rates online, although TripAdvisor reviews suggest their accommodation is a little dated! Regardless, it is also very handy to the ceremony & reception locations, the beach, the pub, etc. 
-
-## Final note - air conditioning
-It has come to our attention that many accommodation options on the island do not have air conditioning. While it will be hot, especially by NZ standards, the island does get lovely bay breezes making it a few degrees cooler than the mainland, and most (if not all) places will have ceiling fans. If you think you might need air con though, we suggest checking with the accommodation when you make your booking :)
+We have not investigated this place in person, but the [Islander Holiday Resort](http://www.stradbrokeislander.com.au) is right next to the Allure, and seem to have good rates online, although TripAdvisor reviews suggest their accommodation is a little dated! Regardless, it is also very handy to the ceremony & reception locations, the beach, the pub, etc. 
 
 If you're planning to stay for more than a few days, it might also be worth renting a holiday house (or bach, as they're called in New Zealand). This is how most visitors to the island would spend their summer holidays :)
 
 Places to book holidays houses include: 
-[Dolphin Property Management] (http://www.straddie.info), 
-[Stayz North Stradbroke Is] (http://www.stayz.com.au/accommodation/qld/queensland-islands/north-stradbroke-island), 
-[Stradbroke Holidays - Pt Lookout] (http://www.stradbrokeholidays.com.au/accommodation/?c=point-lookout), 
-[Ray White Stradbroke] (http://www.visitstradbroke.com.au)
+[Dolphin Property Management](http://www.straddie.info), 
+[Stayz North Stradbroke Is](http://www.stayz.com.au/accommodation/qld/queensland-islands/north-stradbroke-island), 
+[Stradbroke Holidays - Pt Lookout](http://www.stradbrokeholidays.com.au/accommodation/?c=point-lookout), 
+[Ray White Stradbroke](http://www.visitstradbroke.com.au)
 
 ... just make sure the place you book is close to Home Beach, Point Lookout (and definitely not in Amity Pt or Dunwich -  or else it's a long walk home and there are no taxis ;) )

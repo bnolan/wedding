@@ -3,9 +3,9 @@ title: Getting there
 layout: default
 ---
 
-# Getting to Point Lookout, North Stradbroke Island
+# Getting to Point Lookout
 
-Even though we're getting married on a far away island in a (sub)tropical sea, getting there shouldn't be too hard.
+Even though we're getting married on a far away island (North Stradbroke Island) in a (sub)tropical sea, getting there shouldn't be too hard.
 
 ## Fly to Brisbane
 
@@ -55,17 +55,15 @@ It's about a 40min drive (traffic dependent) from Brisbane airport to Cleveland,
 
 If a bunch of you are arriving at around the same time, we will either organise a shuttle to take you from the airport to the ferry, or put you in touch with one another so you can share a taxi.
 
-In fact - please [email] (benandrissa@gmail.com) us when you have booked your travel - we will do our best to keep track of when people are arriving & departing, and put you in touch with others traveling at the same time :)
-
 ## Catching a ferry
 
-To get to the island, you'll need to take a boat. We like to take the [Gold Cat] (http://www.flyer.com.au/timetable-a-prices.html) ferry from Cleveland. You can also take the [Water Taxi] (http://www.stradbrokeferries.com.au/timetables/water-taxi-timetable-north-stradbroke-island). Although they land at different places, you will still end up at Dunwich.
+To get to the island, you'll need to take a boat. We like to take the [Gold Cat](http://www.flyer.com.au/timetable-a-prices.html) ferry from Cleveland. You can also take the [Water Taxi](http://www.stradbrokeferries.com.au/timetables/water-taxi-timetable-north-stradbroke-island). Although they land at different places, you will still end up at Dunwich.
 
 [How not to get to Straddie](http://www.sunshinecoastdaily.com.au/news/how-not-get-straddie/1307903/).
 
 ## On the Island
 
-Once you arrive at Dunwich, take the bus that leaves right outside the ferry terminal. They meet both ferries [most of the time] (http://www.northstradbrokeislandbuses.com/timetables.html) and it takes about 20min get to Pt Lookout and costs $5 (this is one way, and you will need cash). Ask the cruisey bus driver to be drop you off wherever you have booked to stay - the backpackers is the first stop, followed by the Anchorage, and the next is the Allure resort. Once you are at Pt Lookout, you can pretty much walk everywhere (or take the bus, which is $2 within Pt Lookout).
+Once you arrive at Dunwich, take the bus that leaves right outside the ferry terminal. They meet both ferries [most of the time](http://www.northstradbrokeislandbuses.com/timetables.html) and it takes about 20min get to Pt Lookout and costs $5 (this is one way, and you will need cash). Ask the cruisey bus driver to be drop you off wherever you have booked to stay - the backpackers is the first stop, followed by the Anchorage, and the next is the Allure resort. Once you are at Pt Lookout, you can pretty much walk everywhere (or take the bus, which is $2 within Pt Lookout).
 
 We will have a couple of cars on the island, so if for some reason you're arriving after dark (outside of bus hours), we will come pick you up from Dunwich - we'll just need to know in advance.
 

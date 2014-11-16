@@ -10,14 +10,16 @@ body{
 }
 
 $orange: #f70;
-$green: #3e5;
-$red: #f03;
 
  
 h1,h2,h3,h4,h5{
-  font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", sans-serif;
+  font-family: "AmericanTypewriter-Condensed", fixed;
   margin-top: 30px;
   text-transform: uppercase;
+}
+
+a{
+  color: $orange;
 }
 
 h1{
@@ -33,11 +35,18 @@ h3{
 }
 
 body{
-  background: linear-gradient(#428bcf 0, #b9d3e4 400px);
-  background-color: #b9d3e4;
+  background: linear-gradient(#eee 0, #ddd 400px);
+  background-color: #ddd;
   background-repeat: repeat-x;
 }
 
+section{
+  h1,h2,h3{
+    border-bottom: 1px solid #f70;
+    display: inline-block;
+    font-weight: normal;
+  }
+}
 
 *{
   box-sizing:border-box;
@@ -59,19 +68,24 @@ header{
 
   h1{
     margin: 30px 0 10px 0;
+    a{
+      color: inherit;
+      text-decoration: none;
+    }
   }
 
   h3{
-    font-size: 0.85em;
+    font-size: 1em;
     margin: 0 0 20px 0;
-    color: #777;
+    color: #555;
+    font-weight: normal;
   }
 }
 
 #navigation{
   margin: 0;
   padding: 0;
-  border-top: 1px solid #aaa;
+  border-top: 1px solid $orange;
 
   *{
     margin: 0;
@@ -81,22 +95,30 @@ header{
   li{
     display: block;
     list-style: none;
-    width: 33.3%;
     float: left;
   }
+
+  li:nth-child(1), li:nth-child(2), li:nth-child(3){
+    width: 33.3%;
+  }
+
+  li:nth-child(4), li:nth-child(5), li:nth-child(6){
+    width: 33.3%;
+  }
+
   a{
-    font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", sans-serif;
+    font-family: "AmericanTypewriter-Condensed", fixed;
     text-transform: uppercase;
-    border-bottom: 1px solid #aaa;
+    border-bottom: 1px solid $orange;
     text-decoration: none;
     color: #555;
     display: block;
     text-align: center;
   }
 
-  a:hover{
-    background: #555;
-    color: white;
+  a:hover, .active{
+    background: $orange;
+    color: black;
   }
 
 }
