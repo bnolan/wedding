@@ -21,6 +21,9 @@ Both locations are a short walk from the recommended accommodation and each othe
 <div>Ultimately, we want you to be comfortable - it will be warm and humid - so leave the jeans, fur coats, sweaty polyesters, suits &amp; ties at home. :)</div><div>
 </div>
 
+And **no gifts please** - no really! It may sound a bit sappy and cliched, but all we really want is for you to be there to share the day with us. :)
+
+
 ## The day after
 
 We will have an after-party on the Sunday afternoon, either at the Anchorage or at the park next to Home Beach, anyone who is able stay and join us is welcome. 
