@@ -19,9 +19,7 @@ Both locations are a short walk from the recommended accommodation and each othe
 
 **Dress code** is smart casual and footwear is optional during the ceremony (although you might want to wear something for the short walk to the reception). Note we will be on a sandy island, so choose your footwear wisely (stilettos at your own peril!).
 
-
 Ultimately, we want you to be comfortable - it will be warm and humid - so leave the jeans, fur coats, sweaty polyesters, suits &amp; ties at home. :)
-
 
 And **no gifts please** - no really! It may sound a bit sappy and cliched, but all we really want is for you to be there to share the day with us. :)
 
