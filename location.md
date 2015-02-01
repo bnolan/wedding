@@ -5,6 +5,8 @@ layout: default
 
 # Location
 
+<a href="http://i.imgur.com/mKnEvWT.png"><img style="border: 2px solid blue" src="http://i.imgur.com/mKnEvWT.png" title="Click to embiggen - Map of where things are on the island" /></a>
+
 Point Lookout is a small coastal holiday town located on [North Stradbroke Island](http://en.wikipedia.org/wiki/North_Stradbroke_Island), affectionately known as "Straddie". The permanent population on the island is probably less than 2000, but swells significantly during the holidays, and is a popular destination for Brisbane residents over summer.
 
 <img src="/images/waves.jpg" />
